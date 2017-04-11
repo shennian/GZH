@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GZH
-// @namespace    
+// @namespace
 // @version      0.1
 // @description  Gif for zhihu.com as new year gift
 // @author       guaxiao

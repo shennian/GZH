@@ -1,0 +1,16 @@
+.c {
+	background-color: green;
+	font-weight: bold
+}
+
+.pin-answer-list {
+    position: fixed;
+    top: 60px;
+    left: 10px;
+    overflow: auto;
+}
+
+.tools {
+    position: absolute;
+    left: 300px;
+}

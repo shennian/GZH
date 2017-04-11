@@ -5,8 +5,8 @@
   "version": "1.3",
   "content_scripts": [{
       "matches": ["*://*.zhihu.com/*"],
-      // "css": ["common.css"],
-      "js": ["jquery-2.1.4.min.js", "feature.js", "gzh.js"],
+      "css": ["common.css"],
+      "js": ["jquery-2.1.4.min.js", "clipboard.min.js", "feature.js", "new_feature.js","gzh.js"],
       "run_at": "document_start"
     }
   ],

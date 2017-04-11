@@ -15,7 +15,7 @@ Gif for zhihu.com as new year gift
 
 用法
 ===
-clone 项目或者下载 zip 文件解压 https://github.com/guaxiao/GZH/releases/download/1.0/GZH-1.0.zip 
+clone 项目或者下载 zip 文件解压 https://github.com/guaxiao/GZH/releases/download/1.0/GZH-1.0.zip
 
 打开 chrome 扩展页面(chrome://extensions/)
 
@@ -37,3 +37,18 @@ clone 项目或者下载 zip 文件解压 https://github.com/guaxiao/GZH/release
 ===
 
 ~~- 编辑专栏文章或者答案的时候图片地址会被替换~~
+
+
+### new_feature
++ 在问题页面自动显示问题详情
++ 让问题详情更显眼
++ 赞同反对在答案左边放一个
++ 答案左边的赞同反对下面再放一个答案链接
++ 快捷键跳转上一个(键盘:a键)/下一个答案(键盘：s键)
++ 左侧跳转列表
+
+### 2.0
++ 添加 j k 快捷键
++ 列表导航和快捷键优化
++ 一键复制
++ 使用：将GZH.crx拖入chrome即可
